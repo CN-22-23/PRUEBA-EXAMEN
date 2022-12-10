@@ -9,3 +9,14 @@ C:\Users\Cai\source\repos\CN-22-23\PRUEBA-EXAMEN\WindowsFormsApp1\obj\Debug\Wind
 C:\Users\Cai\source\repos\CN-22-23\PRUEBA-EXAMEN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
 C:\Users\Cai\source\repos\CN-22-23\PRUEBA-EXAMEN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 C:\Users\Cai\source\repos\CN-22-23\PRUEBA-EXAMEN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Usuario\Source\Repos\PRUEBA-EXAMEN-ANDBAN\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Usuario\Source\Repos\PRUEBA-EXAMEN-ANDBAN\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Usuario\Source\Repos\PRUEBA-EXAMEN-ANDBAN\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Usuario\Source\Repos\PRUEBA-EXAMEN-ANDBAN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Usuario\Source\Repos\PRUEBA-EXAMEN-ANDBAN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Source\Repos\PRUEBA-EXAMEN-ANDBAN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Usuario\Source\Repos\PRUEBA-EXAMEN-ANDBAN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Usuario\Source\Repos\PRUEBA-EXAMEN-ANDBAN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Usuario\Source\Repos\PRUEBA-EXAMEN-ANDBAN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Source\Repos\PRUEBA-EXAMEN-ANDBAN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Usuario\Source\Repos\PRUEBA-EXAMEN-ANDBAN\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
