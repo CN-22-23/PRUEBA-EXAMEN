@@ -20,6 +20,9 @@ namespace WindowsFormsApp1
         private void button1_Click(object sender, EventArgs e)
         {
             string texto = "el numero 1";
+            string texto2 = "";
+            texto2 = textBox2.Text;
+            texto = textBox1.Text;
             MessageBox.Show(texto);
         }
     }
